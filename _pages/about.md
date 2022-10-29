@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Software Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Senior  Software Engineer at [Therap (BD) Ltd](https://therapbd.com/), a [US-based](https://www.therapservices.net/) software company that provides Software as a Service (SaaS) to government and private organizations globally serving people with intellectual and developmental disabilities. My work involves managing a group of developers and doing RnD in Health Informatics and Health Interoperability sector. You can find details of my work and projects on my [LinkedIn](https://www.linkedin.com/in/saifulislampi/) page. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Apart from my work with therap,  I co-founded an internet publishing website named [E-boipotro](https://eboipotro.github.io/), which creates and publishes free Bengali books in epub format. We have an extensive collection of public-domain Bengali books, including the complete works of noble laureate Rabindranath Tagore. We aim to create a one-stop open-source library for all public domain books written in the Bengali language.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also hosted a tech podcast in Bengali named [Bangla Tech Talk](https://banglatechtalk.com/). In the first season, I talked with six brilliant people about different topics related to computer science and technology. I developed and [open-sourced](https://github.com/bangla-tech-talk/banglatechtalk-com) a podcast publishing website with native podcast player support. I am hoping to bring season two at some point in 2023. If you know the language, please give it a listen.
+
+Two of my greatest obsession are coffee and custom mechanical keyboards. I enjoy building and tuning mechanical keyboards in my free time. Sometimes I post sound tests from my favorite keyboard builds on my [youtube](https://www.youtube.com/channel/UCxcLAIaiskhuA0GLEpvw45Q) channel. Check it out if you are into mechanical keyboards. And I am always on the hunt for a good cup of joe.
