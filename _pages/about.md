@@ -14,7 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-\[This website is not updated. I am hoping to update it within the next two months. -  Saiful (September 1, 2023)\]
+\[Heads up, this website hasn't been updated since July 2023! For the latest info on me, hit me up on social media or email. - Saiful \]
 
 I am a Senior  Software Engineer at [Therap (BD) Ltd](https://therapbd.com/), a [US-based](https://www.therapservices.net/) software company that provides Software as a Service (SaaS) to government and private organizations globally serving people with intellectual and developmental disabilities. My work involves managing a group of developers and doing RnD in Health Informatics and Health Interoperability sector. You can find details of my work and projects on my [LinkedIn](https://www.linkedin.com/in/saifulislampi/) page. 
 
